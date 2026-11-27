@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard IA",
+  "description": "Piattaforma di analisi anti-phishing e threat intelligence per ispezionare email, URL sospetti e screenshot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
